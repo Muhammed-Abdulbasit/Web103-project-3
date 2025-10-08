@@ -37,7 +37,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-
+https://github.com/Muhammed-Abdulbasit/Web103-project-3/blob/main/web103gif3.gif
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with LiceCap
